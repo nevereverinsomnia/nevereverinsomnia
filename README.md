@@ -1,6 +1,6 @@
 # Hi there 👋, I'm iwin
 📚 : Computer vision, Medical image segmentation, and VLM   
-💼 ：404 not found  
+💼 : 404 not found  
 🌐 : https://github.com/nevereverinsomnia
 
 # Find me
