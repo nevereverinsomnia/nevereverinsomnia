@@ -1,6 +1,7 @@
 <div align="center">
 
 # Hi 👋, I'm iwin｜艾汶
+
 [![Gmail](https://img.shields.io/badge/Gmail-nevereverinsomnia@gmail.com-white?color=red&style=socail&logo=gmail)](mailto:nevereverinsomnia@gmail.com)
 [![Wechat](https://img.shields.io/badge/Wechat-NNNevereverinsomnia-EA4335?color=green&style=flat&logo=wechat)]()
 [![Gmail](https://img.shields.io/badge/Github-nevereverinsomnia-red?color=white&style=socail&logo=github)](mailto:https://github.com/nevereverinsomnia)
@@ -17,4 +18,4 @@
 - HELSL-UNet: An Efficient Hybrid Entirely Level Set Loss Guided Net Using Hybrid Soft Attention for CMRI Segmentation. Digital Signal Processing.
 
 # Project
-- 重庆市自然科学基金面上项目——基于深度学习的左心室保凸双水平集模型的研究
+- 重庆市自然科学基金面上项目: 基于深度学习的左心室保凸双水平集模型的研究.
