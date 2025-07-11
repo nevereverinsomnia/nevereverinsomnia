@@ -1,11 +1,11 @@
 <div align="center">
 
-# Hi 👋, I'm iwin｜艾文
-
-</div>
+# Hi 👋, I'm iwin｜艾汶
 [![Gmail](https://img.shields.io/badge/Gmail-nevereverinsomnia@gmail.com-red?color=red&style=socail&logo=gmail)](mailto:nevereverinsomnia@gmail.com)
 [![Wechat](https://img.shields.io/badge/Wechat-NNNevereverinsomnia-EA4335?color=green&style=flat&logo=wechat)]()
 [![Gmail](https://img.shields.io/badge/Github-nevereverinsomnia-red?color=white&style=socail&logo=github)](mailto:https://github.com/nevereverinsomnia)
+
+</div>
 
 📚 : Computer vision, Medical image segmentation, and VLM   
 💼 : 404 not found  
