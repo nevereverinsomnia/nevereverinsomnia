@@ -1,5 +1,7 @@
 <div align="center">
+  
 ![rose]("./rose2.jpg")
+  
 # **Hi 👋, I'm iwin｜艾汶**
 
 [![Gmail](https://img.shields.io/badge/Gmail-nevereverinsomnia@gmail.com-white?color=red&style=socail&logo=gmail)](mailto:nevereverinsomnia@gmail.com)
