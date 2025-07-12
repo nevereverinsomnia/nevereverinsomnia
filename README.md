@@ -1,6 +1,4 @@
 <div align="center">
-  
-![rose](./rose2.jpg){width=300px height=200px}  
 
 # **Hi 👋, I'm iwin｜艾汶**
 
