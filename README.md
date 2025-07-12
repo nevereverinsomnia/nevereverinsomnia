@@ -14,7 +14,7 @@
 
 # Pub
 - ACPDNLS: Adaptive convexity preserving double nonzero level set for cardiac MR image segmentation. Applied Mathematical Modelling (2025): 115975.
-- 基于非零水平集保凸算法的左心室MRI图像分割[J]. 山东大学学报(理学版).
+- 基于非零水平集保凸算法的左心室MRI图像分割[J]. 山东大学学报(理学版). 2025, 60(7): 32-47. 
 - HELSL-UNet: An Efficient Hybrid Entirely Level Set Loss Guided Net Using Hybrid Soft Attention for CMRI Segmentation. Digital Signal Processing.
 
 # Project
