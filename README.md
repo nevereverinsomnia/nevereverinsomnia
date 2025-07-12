@@ -1,6 +1,6 @@
 <div align="center">
   
-[![rose]("./rose2.jpg")]
+[![rose]("rose2.jpg")]
   
 # **Hi 👋, I'm iwin｜艾汶**
 
