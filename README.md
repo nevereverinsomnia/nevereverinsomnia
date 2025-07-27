@@ -9,7 +9,7 @@
 </div>
 
 📚 : Computer vision, Medical image segmentation, and VLM   
-💼 : 404 not found  
+💼 : Micro-inteligence Inc.  
 🌐 : https://github.com/nevereverinsomnia
 
 # Pub
