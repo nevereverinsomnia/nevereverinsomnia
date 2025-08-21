@@ -8,7 +8,7 @@
 
 </div>
 
-📚 : Computer vision, Medical image segmentation, and VLM   
+📚 : Computer Vision, Object Detection, Defect Detection, Medical Image Segmentation, and VLM.   
 💼 : Micro-inteligence Inc.  
 🌐 : https://github.com/nevereverinsomnia
 
