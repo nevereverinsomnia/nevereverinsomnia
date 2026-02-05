@@ -9,5 +9,5 @@
 </div>
 
 📚 : Computer Vision, Object Detection, Defect Detection, Medical Image Segmentation, and VLM.   
-💼 : Micro-inteligence Inc.  
+💼 : Micro-inteligence Tech Inc.  
 🌐 : https://github.com/nevereverinsomnia
